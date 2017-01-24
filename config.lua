@@ -1,9 +1,9 @@
 return {
 
 	-- Your authorization token from the botfather.
-	bot_api_key = '',
+	bot_api_key = '234760369:AAGlp_A_ex_yeNkZlyEYv8ELqAv4raHJMSI',
 	-- Your Telegram ID.
-	admin = 00000000,
+	admin = 186280031,
 	-- Two-letter language code.
 	lang = 'en',
 	-- The channel, group, or user to send error reports to.
